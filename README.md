@@ -67,4 +67,4 @@ Fazer push para a branch (git push origin feature/MinhaFeature)
 Abrir um Pull Request
 
 Contato
-[Seu Nome] - [Seu Email]
+[Jéssica] 
