@@ -4,7 +4,7 @@ let listaAmigos = [];
 
 
 function adicionarAmigo() {
-    let nomeAmigo = document.getElementById('amigo').value;
+    let nomeAmigo = document.getElementById('amigo').value.trim();
 
     if (nomeAmigo == '') {
         alert('Insira um nome');
@@ -14,6 +14,13 @@ function adicionarAmigo() {
     if (listaAmigos.includes(nomeAmigo)) {
         alert('Este amigo já está na lista!');
         return;
+    }
+
+    for (let amigo of listaAmigos) {
+        if (amigo.toUpperCase() == nomeAmigo.toUpperCase()){
+            alert('Este amigo já está na lista!');
+            return;
+        }
     }
 
     listaAmigos.push(nomeAmigo);
@@ -40,7 +47,7 @@ function sortearAmigo() {
 
     let amigoSecreto = listaAmigos[sortearNome];
 
-    document.getElementById('resultado').innerHTML = 'Amigo Sorteado' + amigoSecreto;
+    document.getElementById('resultado').innerHTML = 'Amigo Sorteado: ' + amigoSecreto;
 }
 
 
