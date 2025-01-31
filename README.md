@@ -21,9 +21,9 @@ Este é um aplicativo web simples para organizar sorteios de amigo secreto. Com 
 
 
 
-![Uma descrição da imagem aqui.](https://github.com/user-attachments/assets/839d4697-f751-4d05-b732-e7ce3b31be15)
-![Uma descrição da imagem aqui.](https://github.com/user-attachments/assets/7ff595c4-3bc6-4d07-88c8-05aaebe55e3c)
-![Uma descrição da imagem aqui.](https://github.com/user-attachments/assets/823a5272-7b06-42bf-9fae-cc50c44ec0b6)
+![Uma descrição da imagem aqui.](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![Uma descrição da imagem aqui.](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![Uma descrição da imagem aqui.](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
 
 
 
